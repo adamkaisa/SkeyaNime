@@ -1,2 +1,2 @@
 # SkeyaNime
-http://skeya.me Image sharing platform and API for anime 
+http://skeya.me ✨ Anime Image sharing platform with REST API
